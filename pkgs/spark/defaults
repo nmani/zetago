@@ -1,4 +1,4 @@
 #!/bin/bash
 
-DEF_APP_VERS="anaspark-2.1.1.vers"
+DEF_APP_VERS="anaspark-2.2.0.vers"
 REC_DIR="zeta"
